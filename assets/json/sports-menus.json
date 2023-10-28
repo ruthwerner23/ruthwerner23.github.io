@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Cricket",
+    "children": [
+      {
+        "name": "ICC Cricket World Cup",
+        "id": 4,
+        "children" : [
+          {
+            "id": 7,
+            "name": "Australia vs New Zealand"
+          },
+          {
+            "id": 8,
+            "name": "India vs Shri Lanka"
+          },
+          {
+            "id": 9,
+            "name": "India vs Pakistan"
+          }
+        ]
+      },
+      {
+        "name": "Super 50",
+        "id": 5,
+        "children" : [
+          {
+            "id": 10,
+            "name": "Guyana Harpy Eagles v Combined Campuses & Colleges"
+          },
+          {
+            "id": 11,
+            "name": "West Indies Academy v Jamaica Scorpions"
+          },
+          {
+            "id": 12,
+            "name": "Windward Islands Volcanoes v Barbados Pride"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Soccer",
+    "children": {
+      "name": "AFC Cup",
+      "id": 6,
+      "children" : [
+        {
+          "id": 13,
+          "name": "PSM Makassar v Hougang Utd"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Tennis",
+    "children": {
+      "id": 14,
+      "name": "ITF Santa Margherita",
+      "children" : [
+        {
+          "id": 15,
+          "name": "B Fruhvirtova v S Nahimana"
+        }
+      ]
+    }
+  }
+]
